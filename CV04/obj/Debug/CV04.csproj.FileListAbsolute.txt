@@ -1,0 +1,8 @@
+C:\Users\Cristóvão Cristóvão\Documents\2. rocnik\2. semestr\Objektove orientovane programovani\Programy\CV04\bin\Debug\CV04.exe.config
+C:\Users\Cristóvão Cristóvão\Documents\2. rocnik\2. semestr\Objektove orientovane programovani\Programy\CV04\bin\Debug\CV04.exe
+C:\Users\Cristóvão Cristóvão\Documents\2. rocnik\2. semestr\Objektove orientovane programovani\Programy\CV04\bin\Debug\CV04.pdb
+C:\Users\Cristóvão Cristóvão\Documents\2. rocnik\2. semestr\Objektove orientovane programovani\Programy\CV04\obj\Debug\CV04.csproj.AssemblyReference.cache
+C:\Users\Cristóvão Cristóvão\Documents\2. rocnik\2. semestr\Objektove orientovane programovani\Programy\CV04\obj\Debug\CV04.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cristóvão Cristóvão\Documents\2. rocnik\2. semestr\Objektove orientovane programovani\Programy\CV04\obj\Debug\CV04.csproj.CoreCompileInputs.cache
+C:\Users\Cristóvão Cristóvão\Documents\2. rocnik\2. semestr\Objektove orientovane programovani\Programy\CV04\obj\Debug\CV04.exe
+C:\Users\Cristóvão Cristóvão\Documents\2. rocnik\2. semestr\Objektove orientovane programovani\Programy\CV04\obj\Debug\CV04.pdb
