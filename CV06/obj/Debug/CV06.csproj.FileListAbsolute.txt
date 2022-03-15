@@ -1,0 +1,8 @@
+C:\Users\Cristóvão Cristóvão\Documents\2. rocnik\2. semestr\Objektove orientovane programovani\Programy\CV06\bin\Debug\CV06.exe.config
+C:\Users\Cristóvão Cristóvão\Documents\2. rocnik\2. semestr\Objektove orientovane programovani\Programy\CV06\bin\Debug\CV06.exe
+C:\Users\Cristóvão Cristóvão\Documents\2. rocnik\2. semestr\Objektove orientovane programovani\Programy\CV06\bin\Debug\CV06.pdb
+C:\Users\Cristóvão Cristóvão\Documents\2. rocnik\2. semestr\Objektove orientovane programovani\Programy\CV06\obj\Debug\CV06.csproj.AssemblyReference.cache
+C:\Users\Cristóvão Cristóvão\Documents\2. rocnik\2. semestr\Objektove orientovane programovani\Programy\CV06\obj\Debug\CV06.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cristóvão Cristóvão\Documents\2. rocnik\2. semestr\Objektove orientovane programovani\Programy\CV06\obj\Debug\CV06.csproj.CoreCompileInputs.cache
+C:\Users\Cristóvão Cristóvão\Documents\2. rocnik\2. semestr\Objektove orientovane programovani\Programy\CV06\obj\Debug\CV06.exe
+C:\Users\Cristóvão Cristóvão\Documents\2. rocnik\2. semestr\Objektove orientovane programovani\Programy\CV06\obj\Debug\CV06.pdb
